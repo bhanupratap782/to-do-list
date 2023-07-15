@@ -1,2 +1,2 @@
 # to-do-list
-to use time preciouly
+to use time preciously
